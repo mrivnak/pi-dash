@@ -1,5 +1,5 @@
 [package]
-name = "pi-dash"
+name = "pi-dash-monitor"
 authors = ["Michael Rivnak <rivnakm1@gmail.com>"]
 repository = "https://github.com/mrivnak/pi-dash"
 license-file = "../LICENSE"
